@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatChat</string>
+    <string name="email">Enter Email Address</string>
+    <string name="password">Enter Password</string>
+</resources>
